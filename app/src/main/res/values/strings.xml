@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMDBClientApp</string>
+    <string name="api_key">b1be3e49b0412cc511ec689e39ce76f6</string>
+    <string name="language">ko-KR</string>
+</resources>
